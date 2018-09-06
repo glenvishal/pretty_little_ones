@@ -1,0 +1,11 @@
+username : prettylittle2k@gmail.com
+pass: $2kbysep18
+
+API Key: 07b79474c1a9b0040776f576999140db
+Password: 61432c3c2d2f227af19506e9184e67b0
+Example URL: https://07b79474c1a9b0040776f576999140db:61432c3c2d2f227af19506e9184e67b0@pretty-little-ones.myshopify.com/admin/orders.json
+Shared secret: 385915c892208c91a965f2a4c3ab779d
+
+theme get --list -p=61432c3c2d2f227af19506e9184e67b0 -s=pretty-little-ones.myshopify.com
+
+theme get -p=61432c3c2d2f227af19506e9184e67b0 -s=pretty-little-ones.myshopify.com -t=35433611362
