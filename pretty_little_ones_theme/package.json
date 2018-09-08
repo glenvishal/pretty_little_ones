@@ -1,0 +1,27 @@
+{
+  "name": "pretty_little_ones_theme",
+  "version": "1.0.0",
+  "description": "pretty little ones shopify",
+  "main": "index.js",
+  "scripts": {
+    "watch": "slate watch",
+    "start:dev": "slate start --env development",
+    "start:prod": "slate start --env production",
+    "deploy:dev": "slate deploy --env development",
+    "deploy:prod": "slate deploy --env production",
+    "build": "slate build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenvishal/pretty_little_ones.git"
+  },
+  "author": "Glen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glenvishal/pretty_little_ones/issues"
+  },
+  "homepage": "https://github.com/glenvishal/pretty_little_ones#readme",
+  "dependencies": {
+    "@shopify/slate": "^0.14.0"
+  }
+}

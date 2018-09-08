@@ -1,0 +1,11 @@
+#theme watch --env=development
+development:
+  password: 61432c3c2d2f227af19506e9184e67b0
+  theme_id: "35433611362"
+  store: pretty-little-ones.myshopify.com
+
+#theme upload --env=production  
+production:
+  password: 61432c3c2d2f227af19506e9184e67b0
+  theme_id: "36674732130"
+  store: pretty-little-ones.myshopify.com
