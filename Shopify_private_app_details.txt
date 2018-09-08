@@ -1,5 +1,0 @@
-theme get --list -p=61432c3c2d2f227af19506e9184e67b0 -s=pretty-little-ones.myshopify.com
-
-theme get -p=61432c3c2d2f227af19506e9184e67b0 -s=pretty-little-ones.myshopify.com -t=35433611362
-
-theme --env
